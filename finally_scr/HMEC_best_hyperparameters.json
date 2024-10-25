@@ -1,1 +1,0 @@
-{"out_channels": 120, "kernel_size": 4, "cnn_out_channels": 74, "gat1_out_channels": 114, "gat2_out_channels": 31, "edge_hidden_dim": 24, "num_heads": 2, "lr": 0.00126122294064814, "weight_decay": 0.0007372865588363929, "step_size": 30, "gamma": 0.4746067408839196}
