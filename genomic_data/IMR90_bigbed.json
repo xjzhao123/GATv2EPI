@@ -1,0 +1,15 @@
+{
+    "location": "/home/tjzhang03/zxj/deal_data/genomic_data/bigBed",
+    "output_dir": "/home/tjzhang03/zxj/deal_data/genomic_data/bigbed2bed",
+    "celltypes": {
+        "IMR90": {
+            "DNase": "ENCFF072MPH.bigBed",
+            "H3K27ac": "ENCFF694SUT.bigBed",
+            "H3K27me3": "ENCFF812MYT.bigBed",
+            "H3K4me1": "ENCFF766UPC.bigBed",
+            "H3K4me3": "ENCFF925LLF.bigBed",
+            "H3K9me3": "ENCFF840ATN.bigBed",
+            "CTCF": "ENCFF493JZB.bigBed"
+        }
+    }
+}

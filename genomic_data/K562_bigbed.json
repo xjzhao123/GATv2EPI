@@ -1,0 +1,15 @@
+{
+    "location": "/home/tjzhang03/zxj/deal_data/genomic_data/bigBed",
+    "output_dir": "/home/tjzhang03/zxj/deal_data/genomic_data/bigbed2bed",
+    "celltypes": {
+        "K562": {
+            "DNase": "ENCFF945DYE.bigBed",
+            "H3K27ac": "ENCFF683UVA.bigBed",
+            "H3K27me3": "ENCFF326BQH.bigBed",
+            "H3K4me1": "ENCFF177ZBH.bigBed",
+            "H3K4me3": "ENCFF816LTQ.bigBed",
+            "H3K9me3": "ENCFF303MPF.bigBed",
+            "CTCF": "ENCFF442VVV.bigBed"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "location": "/home/tjzhang03/zxj/deal_data/genomic_data/bigBed",
+    "output_dir": "/home/tjzhang03/zxj/deal_data/genomic_data/bigbed2bed",
+    "celltypes": {
+        "NHEK": {
+            "DNase": "ENCFF181LIF.bigBed",
+            "H3K27ac": "ENCFF830GGN.bigBed",
+            "H3K27me3": "ENCFF890AFQ.bigBed",
+            "H3K4me1": "ENCFF039FOI.bigBed",
+            "H3K4me3": "ENCFF233BHC.bigBed",
+            "H3K9me3": "ENCFF679ZZK.bigBed",
+            "CTCF": "ENCFF599QCR.bigBed"
+        }
+    }
+}

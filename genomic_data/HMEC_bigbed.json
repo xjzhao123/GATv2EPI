@@ -1,0 +1,15 @@
+{
+    "location": "/home/tjzhang03/zxj/deal_data/genomic_data/bigBed",
+    "output_dir": "/home/tjzhang03/zxj/deal_data/genomic_data/bigbed2bed",
+    "celltypes": {
+        "HMEC": {
+            "DNase": "ENCFF398ARD.bigBed",
+            "H3K27ac": "ENCFF050VKS.bigBed",
+            "H3K27me3": "ENCFF807EYS.bigBed",
+            "H3K4me1": "ENCFF166BEW.bigBed",
+            "H3K4me3": "ENCFF704OBF.bigBed",
+            "H3K9me3": "ENCFF100WJR.bigBed",
+            "CTCF": "ENCFF108SPI.bigBed"
+        }
+    }
+}
